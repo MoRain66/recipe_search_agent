@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "Recipe_Search": "./app/agents/Recipe_Search.py:agent"
+    },
+    "env": ".env"
+}
