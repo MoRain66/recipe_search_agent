@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 6b83376620b183f1d97ad5b5334a1efd_1a271fbf6b2311f1a0095254002afed2
-    ReservedCode1: Uv0oygTOoGJGztWDD8qRCxB8Q8veS76QI8hZH5YtJlto8A8Dn8b5/czbYj6fR/nUE0zCxotc1Sdv5Kgb6sq6Ueys5ib773+btK3M8VZIyefyIjzLOyT8NkgH0+SelqLH9j9MfOhNgo9V6QrZqobSBdQGFYCINoNa53ciecpiATgugaYQspn+g2RQS/U=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 6b83376620b183f1d97ad5b5334a1efd_1a271fbf6b2311f1a0095254002afed2
-    ReservedCode2: Uv0oygTOoGJGztWDD8qRCxB8Q8veS76QI8hZH5YtJlto8A8Dn8b5/czbYj6fR/nUE0zCxotc1Sdv5Kgb6sq6Ueys5ib773+btK3M8VZIyefyIjzLOyT8NkgH0+SelqLH9j9MfOhNgo9V6QrZqobSBdQGFYCINoNa53ciecpiATgugaYQspn+g2RQS/U=
----
-
 # 🍳 AI 私人厨师 | Personal Chief
 
 [![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/)
