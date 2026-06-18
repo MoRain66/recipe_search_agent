@@ -238,7 +238,8 @@ response = self.search_client.search(
 
 ## 📸 界面预览
 
-> （可在此处放置项目截图）
+<img width="1720" height="1132" alt="微信图片_20260618214112_112_26" src="https://github.com/user-attachments/assets/3e0a67ee-de39-4a77-bd4a-cc25cff661c5" />
+
 
 ---
 
