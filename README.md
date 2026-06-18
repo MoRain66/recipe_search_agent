@@ -8,8 +8,6 @@
 
 基于 **LangChain + LangGraph** 构建的智能食谱推荐 Agent。上传食材图片或描述现有食材，由大模型驱动的 Agent 自动识别食材、联网检索菜谱，并生成个性化烹饪建议。
 
-> 前端已改为现代霓虹深色风格（Cyberpunk / Neon），使用 Claude Code 辅助完成样式重构。
-
 ---
 
 ## ✨ 功能特性
